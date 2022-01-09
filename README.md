@@ -1,5 +1,5 @@
 Hello, folks! 👋
-I'm Akanshu Gupta, a freelance QA Engineer (Automation, Performance and Manual tester) from India and currently working as a Freelancer. You can find me on LinkedIn and uprowrk.
+I'm ##Akanshu Gupta, a freelance QA Engineer (Automation, Performance and Manual tester) from India and currently working as a Freelancer. You can find me on LinkedIn and uprowrk.
 
 Here is a brief description of my professional experience and area of expertise
 
